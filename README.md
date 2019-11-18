@@ -6,3 +6,8 @@
 [吕江涛的高效信息管理术1.2](https://sspai.com/post/53559)
 * [印象笔记清单及模板](https://list.yinxiang.com/)：官方出品。
 * 印象笔记输入"[toc]"，可快速生产目录大纲。[吕江涛：印象笔记的Markdown](https://sspai.com/post/47199)
+* 印象笔记快捷键
+  * 无序列表： ⌘command + ⇧shift + u 
+  * 有序列表 ⌘command + ⇧shift + o 
+  * 待办事项 ⌘command + ⇧shift + t 
+  * 添加代码块： ⌘command + ⇧shift + p 
