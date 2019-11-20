@@ -12,3 +12,4 @@
   * 待办事项 ⌘command + ⇧shift + t 
   * 添加代码块： ⌘command + ⇧shift + p 
 * [量化自我工具Timetrack](https://sspai.com/post/43481)：文章为工具介绍，另有两篇URL的文章可在设置时候参考，后一篇更新。[URL Schemes 使用详解](https://sspai.com/post/31500)、[入门 iOS 自动化：读懂 URL Schemes](https://sspai.com/post/44591)
+* [基于场景和清单的习惯养成方法](https://sspai.com/post/53851)：WOOP和清单法，可参考此篇。
