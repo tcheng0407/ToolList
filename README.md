@@ -14,3 +14,4 @@
 * [量化自我工具Timetrack](https://sspai.com/post/43481)：文章为工具介绍，另有两篇URL的文章可在设置时候参考，后一篇更新。[URL Schemes 使用详解](https://sspai.com/post/31500)、[入门 iOS 自动化：读懂 URL Schemes](https://sspai.com/post/44591)
 * [基于场景和清单的习惯养成方法](https://sspai.com/post/53851)：WOOP和清单法，可参考此篇。
 * 橘子放松法：在阅读之前想象自己的后脑勺有一颗橘子，然后进行几次深呼吸放松，辅助自己进入专注模式。这种方法能对有些人颇为有效，感觉文字能直接透过眼睛进入大脑，感觉很微妙。
+* [读书表格的百度盘链接](https://pan.baidu.com/s/1eStF2i2)：具体方法参考[普通人如何做到30分钟读一本书并做完笔记？](https://mp.weixin.qq.com/s?__biz=MzI5MjM2Njg1MA==&mid=2247483776&idx=1&sn=da9926264ec45c401e16a0c019f1322e&chksm=ec033eeddb74b7fb7c6bdd016a7a8ebfcf15376c84a0837d791158af3169526cd758e523de45&mpshare=1&scene=1&srcid=0627jLS3UoVsQeoiArfcZirn#rd)
